@@ -9,5 +9,5 @@ reset-on-logout: true
 force-builtin-permissions: false
 
 # Sign text (capitals don't matter)
-sign-text: "[AdvancedKits]"
+sign-text: "[KIT]"
 ...
